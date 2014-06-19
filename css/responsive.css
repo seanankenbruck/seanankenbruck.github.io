@@ -66,6 +66,14 @@ HEADER
     text-align: right;
     width: 45%;
   }
+
+  #logo {
+  float: left;
+  text-align: left;
+  margin-left: 5%;
+  width: 45%;
+  padding: 1%;
+}
   
   
   
